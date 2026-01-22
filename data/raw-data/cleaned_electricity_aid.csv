@@ -1,0 +1,581 @@
+country,year,electricity_aid
+"Africa, regional",2019,147.842102
+Albania,2019,9.625792
+"America, regional",2019,36.891113
+Angola,2019,1.453325
+Antigua and Barbuda,2019,5.728995
+Argentina,2019,49.176609
+Armenia,2019,87.484321
+"Asia, regional",2019,64.657948
+Azerbaijan,2019,0.303426
+Bangladesh,2019,1246.033454
+Belize,2019,0.012004
+Benin,2019,83.809204
+Bhutan,2019,39.993238
+"Bilateral, unspecified",2019,31.546152
+Bolivia,2019,27.213739
+Bosnia and Herzegovina,2019,63.319806
+Botswana,2019,0.174826
+Brazil,2019,8.600299
+Burkina Faso,2019,48.793078
+Burundi,2019,22.615485
+Cabo Verde,2019,5.531621
+Cambodia,2019,47.730149
+Cameroon,2019,68.797571
+"Caribbean, regional",2019,3.252397
+Central African Republic,2019,7.548917
+"Central Asia, regional",2019,0.525079
+China (People's Republic of),2019,115.359301
+Colombia,2019,47.175842
+Comoros,2019,20.47465
+Congo,2019,15.403097
+Costa Rica,2019,142.56733
+Cuba,2019,1.061898
+Côte d'Ivoire,2019,206.714308
+Democratic Republic of the Congo,2019,44.871382
+Djibouti,2019,20.340381
+Dominica,2019,2.152094
+Dominican Republic,2019,429.138626
+"Eastern Africa, regional",2019,14.541089
+Ecuador,2019,346.489794
+Egypt,2019,741.455035
+El Salvador,2019,0.149721
+Eswatini,2019,4.983496
+Ethiopia,2019,225.258148
+"Europe, regional",2019,0.857434
+"Far East Asia, regional",2019,0.861723
+Fiji,2019,6.254264
+Gambia,2019,14.849177
+Georgia,2019,9.832424
+Ghana,2019,21.083005
+Grenada,2019,0.237373
+Guatemala,2019,NA
+Guinea,2019,50.663063
+Guinea-Bissau,2019,26.804057
+Guyana,2019,18.848887
+Haiti,2019,7.564376
+Honduras,2019,278.015273
+India,2019,761.874944
+Indonesia,2019,378.211015
+Iran,2019,0.494505
+Iraq,2019,325.94299
+Jamaica,2019,0.219285
+Jordan,2019,68.343891
+Kazakhstan,2019,28.059394
+Kenya,2019,382.799132
+Kiribati,2019,1.101004
+Kosovo,2019,14.29852
+Kyrgyzstan,2019,63.9075
+Lao People's Democratic Republic,2019,3.125974
+Lebanon,2019,1.544476
+Lesotho,2019,2.620642
+Liberia,2019,76.674466
+Libya,2019,NA
+Madagascar,2019,44.318652
+Malawi,2019,34.366221
+Malaysia,2019,3.865348
+Maldives,2019,26.841183
+Mali,2019,19.465116
+Marshall Islands,2019,1.673864
+Mauritania,2019,136.299887
+Mauritius,2019,NA
+Mexico,2019,100.21057
+Micronesia,2019,0.1391
+"Middle East, regional",2019,0.088532
+Moldova,2019,11.729814
+Mongolia,2019,2.233911
+Morocco,2019,182.357841
+Mozambique,2019,246.686128
+Myanmar,2019,129.807376
+Namibia,2019,0.08249
+Nauru,2019,5.126355
+Nepal,2019,180.065101
+Nicaragua,2019,82.646967
+Niger,2019,29.137804
+Nigeria,2019,34.559005
+Niue,2019,1.029668
+North Macedonia,2019,0.494689
+"North of Sahara, regional",2019,NA
+"Oceania, regional",2019,13.080408
+Pakistan,2019,151.631314
+Palau,2019,0.179035
+Panama,2019,200.614901
+Papua New Guinea,2019,3.591042
+Paraguay,2019,33.427791
+Peru,2019,0.452508
+Philippines,2019,13.600254
+Rwanda,2019,264.845065
+Samoa,2019,4.804992
+Sao Tome and Principe,2019,0.109035
+Senegal,2019,91.755209
+Serbia,2019,41.778713
+Sierra Leone,2019,73.937785
+Solomon Islands,2019,18.122219
+Somalia,2019,8.522766
+"South & Central Asia, regional",2019,0.001706
+South Africa,2019,67.76468
+"South America, regional",2019,0.517661
+"South Asia, regional",2019,1.605144
+South Sudan,2019,14.264071
+"South of Sahara, regional",2019,53.140779
+"Southern Africa, regional",2019,1.465248
+Sri Lanka,2019,202.668843
+Sudan,2019,0.158756
+Suriname,2019,2.149567
+Syrian Arab Republic,2019,28.080532
+Tajikistan,2019,60.603707
+Tanzania,2019,92.43248
+Thailand,2019,3.827805
+Timor-Leste,2019,0.429683
+Togo,2019,1.386899
+Tonga,2019,18.641353
+Tunisia,2019,36.656575
+Turkmenistan,2019,78.000642
+Tuvalu,2019,1.452314
+Türkiye,2019,114.19654
+Uganda,2019,54.3319
+Ukraine,2019,21.524369
+Uzbekistan,2019,405.051654
+Vanuatu,2019,6.455623
+Venezuela,2019,0.20947
+Viet Nam,2019,124.577655
+West Bank and Gaza Strip,2019,76.458871
+"Western Africa, regional",2019,30.645428
+Yemen,2019,35.000036
+Zambia,2019,54.272733
+Zimbabwe,2019,2.657204
+"Africa, regional",2020,115.151212
+Albania,2020,3.404894
+"America, regional",2020,35.255769
+Angola,2020,1.296603
+Antigua and Barbuda,2020,5.230476
+Argentina,2020,44.390219
+Armenia,2020,37.123983
+"Asia, regional",2020,64.633528
+Azerbaijan,2020,0.290804
+Bangladesh,2020,731.188689
+Belize,2020,0.012004
+Benin,2020,63.75467
+Bhutan,2020,16.073132
+"Bilateral, unspecified",2020,19.576952
+Bolivia,2020,7.949531
+Bosnia and Herzegovina,2020,37.465537
+Botswana,2020,0.026111
+Brazil,2020,6.076827
+Burkina Faso,2020,24.104447
+Burundi,2020,9.695822
+Cabo Verde,2020,1.894315
+Cambodia,2020,29.404687
+Cameroon,2020,25.734872
+"Caribbean, regional",2020,0.848629
+Central African Republic,2020,6.693219
+"Central Asia, regional",2020,0.525079
+China (People's Republic of),2020,75.281407
+Colombia,2020,3.650608
+Comoros,2020,9.093181
+Congo,2020,5.118048
+Costa Rica,2020,34.426173
+Cuba,2020,NA
+Côte d'Ivoire,2020,121.859381
+Democratic Republic of the Congo,2020,16.060561
+Djibouti,2020,4.447854
+Dominica,2020,2
+Dominican Republic,2020,6.608446
+"Eastern Africa, regional",2020,14.29885
+Ecuador,2020,322.461687
+Egypt,2020,323.884269
+El Salvador,2020,0.109742
+Eswatini,2020,4.983496
+Ethiopia,2020,115.779399
+"Europe, regional",2020,0.041733
+"Far East Asia, regional",2020,0.347477
+Fiji,2020,5.187903
+Gambia,2020,9.347576
+Georgia,2020,0.102945
+Ghana,2020,10.545926
+Grenada,2020,0.028106
+Guatemala,2020,NA
+Guinea,2020,19.014572
+Guinea-Bissau,2020,14.747409
+Guyana,2020,5.078887
+Haiti,2020,3.234876
+Honduras,2020,274.162118
+India,2020,277.941853
+Indonesia,2020,162.534427
+Iran,2020,NA
+Iraq,2020,226.604228
+Jamaica,2020,0.219285
+Jordan,2020,25.96171
+Kazakhstan,2020,12.48889
+Kenya,2020,152.468218
+Kiribati,2020,0.390567
+Kosovo,2020,7.276604
+Kyrgyzstan,2020,32.328113
+Lao People's Democratic Republic,2020,1.978482
+Lebanon,2020,0.502349
+Lesotho,2020,0.649836
+Liberia,2020,43.671271
+Libya,2020,NA
+Madagascar,2020,22.488832
+Malawi,2020,16.404017
+Malaysia,2020,3.865348
+Maldives,2020,15.096642
+Mali,2020,14.197095
+Marshall Islands,2020,0.206999
+Mauritania,2020,38.134846
+Mauritius,2020,NA
+Mexico,2020,100.21057
+Micronesia,2020,0.1391
+"Middle East, regional",2020,0.03919
+Moldova,2020,5.22584
+Mongolia,2020,1.654215
+Morocco,2020,143.109441
+Mozambique,2020,116.777004
+Myanmar,2020,125.885717
+Namibia,2020,0.046698
+Nauru,2020,0.616207
+Nepal,2020,96.908551
+Nicaragua,2020,59.611004
+Niger,2020,15.991809
+Nigeria,2020,21.756924
+Niue,2020,0.17803
+North Macedonia,2020,0.494689
+"North of Sahara, regional",2020,NA
+"Oceania, regional",2020,5.146085
+Pakistan,2020,56.603159
+Palau,2020,0.179035
+Panama,2020,200.483081
+Papua New Guinea,2020,1.898547
+Paraguay,2020,32.366665
+Peru,2020,0.408052
+Philippines,2020,0.583407
+Rwanda,2020,92.416442
+Samoa,2020,0.611674
+Sao Tome and Principe,2020,0.109035
+Senegal,2020,43.020742
+Serbia,2020,34.892348
+Sierra Leone,2020,33.174798
+Solomon Islands,2020,8.909089
+Somalia,2020,6.649853
+"South & Central Asia, regional",2020,NA
+South Africa,2020,13.675373
+"South America, regional",2020,0.091165
+"South Asia, regional",2020,0.859536
+South Sudan,2020,4.891974
+"South of Sahara, regional",2020,25.394734
+"Southern Africa, regional",2020,1.465248
+Sri Lanka,2020,131.325339
+Sudan,2020,0.158756
+Suriname,2020,NA
+Syrian Arab Republic,2020,8.234192
+Tajikistan,2020,35.07801
+Tanzania,2020,47.901706
+Thailand,2020,3.827805
+Timor-Leste,2020,0.423683
+Togo,2020,0.981315
+Tonga,2020,10.077868
+Tunisia,2020,10.728773
+Turkmenistan,2020,77.369743
+Tuvalu,2020,1.300712
+Türkiye,2020,74.046614
+Uganda,2020,21.229597
+Ukraine,2020,7.016261
+Uzbekistan,2020,158.571472
+Vanuatu,2020,6.265022
+Venezuela,2020,0.064142
+Viet Nam,2020,26.552895
+West Bank and Gaza Strip,2020,21.683317
+"Western Africa, regional",2020,15.901594
+Yemen,2020,16.424341
+Zambia,2020,11.445295
+Zimbabwe,2020,0.42239
+"Africa, regional",2021,132.547737
+Albania,2021,3.907389
+"America, regional",2021,30.028641
+Angola,2021,0.996663
+Antigua and Barbuda,2021,NA
+Argentina,2021,NA
+Armenia,2021,41.36121
+"Asia, regional",2021,51.000169
+Azerbaijan,2021,NA
+Bangladesh,2021,597.815758
+Belize,2021,0.00547
+Benin,2021,109.636092
+Bhutan,2021,16.95264
+"Bilateral, unspecified",2021,56.010515
+Bolivia,2021,41.09496
+Bosnia and Herzegovina,2021,26.334628
+Botswana,2021,0.032309
+Brazil,2021,2.530125
+Burkina Faso,2021,16.374243
+Burundi,2021,2.784934
+Cabo Verde,2021,1.687065
+Cambodia,2021,35.769327
+Cameroon,2021,51.508338
+"Caribbean, regional",2021,0.304485
+Central African Republic,2021,11.683398
+"Central Asia, regional",2021,3.928244
+China (People's Republic of),2021,45.31842
+Colombia,2021,33.048426
+Comoros,2021,4.398487
+Congo,2021,3.629748
+Costa Rica,2021,5.37352
+Cuba,2021,NA
+Côte d'Ivoire,2021,78.367452
+Democratic Republic of the Congo,2021,33.12533
+Djibouti,2021,3.866693
+Dominica,2021,0.3795
+Dominican Republic,2021,20.765575
+"Eastern Africa, regional",2021,9.959862
+Ecuador,2021,47.615739
+Egypt,2021,442.656678
+El Salvador,2021,0.215998
+Eswatini,2021,0.404104
+Ethiopia,2021,101.580705
+"Europe, regional",2021,3.556947
+"Far East Asia, regional",2021,0.113396
+Fiji,2021,0.84414
+Gambia,2021,25.318156
+Georgia,2021,104.565998
+Ghana,2021,37.449768
+Grenada,2021,NA
+Guatemala,2021,0.122147
+Guinea,2021,18.860626
+Guinea-Bissau,2021,21.184122
+Guyana,2021,7.138379
+Haiti,2021,4.387973
+Honduras,2021,44.291045
+India,2021,401.641684
+Indonesia,2021,322.380941
+Iran,2021,NA
+Iraq,2021,152.828693
+Jamaica,2021,2.480583
+Jordan,2021,8.008392
+Kazakhstan,2021,0.06582
+Kenya,2021,113.820655
+Kiribati,2021,4.241574
+Kosovo,2021,8.612204
+Kyrgyzstan,2021,47.561707
+Lao People's Democratic Republic,2021,0.111118
+Lebanon,2021,1.69539
+Lesotho,2021,2.839676
+Liberia,2021,36.783885
+Libya,2021,1.019172
+Madagascar,2021,14.964509
+Malawi,2021,13.377243
+Malaysia,2021,0.00167
+Maldives,2021,3.783972
+Mali,2021,8.593452
+Marshall Islands,2021,NA
+Mauritania,2021,16.348824
+Mauritius,2021,0.052986
+Mexico,2021,0.460391
+Micronesia,2021,NA
+"Middle East, regional",2021,0.693724
+Moldova,2021,0.00412
+Mongolia,2021,4.335388
+Morocco,2021,122.021879
+Mozambique,2021,152.008035
+Myanmar,2021,31.42382
+Namibia,2021,0.035507
+Nauru,2021,0.639231
+Nepal,2021,117.186254
+Nicaragua,2021,18.166539
+Niger,2021,30.543912
+Nigeria,2021,101.163323
+Niue,2021,NA
+North Macedonia,2021,2.646446
+"North of Sahara, regional",2021,1.800524
+"Oceania, regional",2021,4.066627
+Pakistan,2021,462.18248
+Palau,2021,5.111263
+Panama,2021,0.369519
+Papua New Guinea,2021,5.199699
+Paraguay,2021,5.128325
+Peru,2021,3.118801
+Philippines,2021,1.677304
+Rwanda,2021,42.080405
+Samoa,2021,NA
+Sao Tome and Principe,2021,0.132094
+Senegal,2021,59.798441
+Serbia,2021,26.069161
+Sierra Leone,2021,34.756357
+Solomon Islands,2021,1.110271
+Somalia,2021,1.391523
+"South & Central Asia, regional",2021,0.02024
+South Africa,2021,72.479027
+"South America, regional",2021,0.33286
+"South Asia, regional",2021,1.911934
+South Sudan,2021,1.506831
+"South of Sahara, regional",2021,31.894432
+"Southern Africa, regional",2021,0.118415
+Sri Lanka,2021,78.350484
+Sudan,2021,NA
+Suriname,2021,0.401
+Syrian Arab Republic,2021,2.009712
+Tajikistan,2021,61.635435
+Tanzania,2021,88.407596
+Thailand,2021,0.310211
+Timor-Leste,2021,2.663841
+Togo,2021,2.348333
+Tonga,2021,3.992305
+Tunisia,2021,7.032342
+Turkmenistan,2021,118.441895
+Tuvalu,2021,0.797106
+Türkiye,2021,41.435535
+Uganda,2021,47.079939
+Ukraine,2021,3.018849
+Uzbekistan,2021,18.752741
+Vanuatu,2021,0.171552
+Venezuela,2021,0.057293
+Viet Nam,2021,48.304343
+West Bank and Gaza Strip,2021,288.369753
+"Western Africa, regional",2021,67.898415
+Yemen,2021,9.567383
+Zambia,2021,23.44688
+Zimbabwe,2021,2.356068
+"Africa, regional",2022,256.319706
+Albania,2022,22.801707
+"America, regional",2022,34.331235
+Angola,2022,7.205441
+Antigua and Barbuda,2022,NA
+Argentina,2022,2.115442
+Armenia,2022,56.580006
+"Asia, regional",2022,66.196503
+Azerbaijan,2022,NA
+Bangladesh,2022,2024.976654
+Belize,2022,3.070418
+Benin,2022,292.663996
+Bhutan,2022,47.723748
+"Bilateral, unspecified",2022,668.339273
+Bolivia,2022,95.114528
+Bosnia and Herzegovina,2022,29.994626
+Botswana,2022,0.136355
+Brazil,2022,5.577151
+Burkina Faso,2022,67.404367
+Burundi,2022,15.397398
+Cabo Verde,2022,3.812681
+Cambodia,2022,64.363587
+Cameroon,2022,263.974196
+"Caribbean, regional",2022,0.304485
+Central African Republic,2022,59.846878
+"Central Asia, regional",2022,17.550514
+China (People's Republic of),2022,228.98831
+Colombia,2022,48.701668
+Comoros,2022,10.298725
+Congo,2022,3.696284
+Costa Rica,2022,12.09541
+Cuba,2022,0.105154
+Côte d'Ivoire,2022,271.074902
+Democratic Republic of the Congo,2022,117.487478
+Djibouti,2022,12.211619
+Dominica,2022,0.3795
+Dominican Republic,2022,195.491475
+"Eastern Africa, regional",2022,15.96126
+Ecuador,2022,151.664493
+Egypt,2022,750.238808
+El Salvador,2022,0.391998
+Eswatini,2022,13.389742
+Ethiopia,2022,357.555273
+"Europe, regional",2022,7.988517
+"Far East Asia, regional",2022,0.131096
+Fiji,2022,3.426662
+Gambia,2022,169.831836
+Georgia,2022,177.39395
+Ghana,2022,78.325494
+Grenada,2022,NA
+Guatemala,2022,0.124297
+Guinea,2022,230.955468
+Guinea-Bissau,2022,48.049036
+Guyana,2022,9.312035
+Haiti,2022,9.423245
+Honduras,2022,105.378029
+India,2022,1199.070462
+Indonesia,2022,850.358537
+Iran,2022,17.480982
+Iraq,2022,710.723301
+Jamaica,2022,12.446611
+Jordan,2022,284.727642
+Kazakhstan,2022,0.06582
+Kenya,2022,284.069936
+Kiribati,2022,8.902548
+Kosovo,2022,12.192938
+Kyrgyzstan,2022,147.033057
+Lao People's Democratic Republic,2022,0.111118
+Lebanon,2022,21.307654
+Lesotho,2022,9.204356
+Liberia,2022,89.523249
+Libya,2022,1.019172
+Madagascar,2022,48.232717
+Malawi,2022,71.414019
+Malaysia,2022,0.021406
+Maldives,2022,8.899786
+Mali,2022,140.812508
+Marshall Islands,2022,2.330374
+Mauritania,2022,67.664806
+Mauritius,2022,0.052986
+Mexico,2022,1.831157
+Micronesia,2022,NA
+"Middle East, regional",2022,1.524774
+Moldova,2022,5.658894
+Mongolia,2022,30.405766
+Morocco,2022,374.740165
+Mozambique,2022,534.174349
+Myanmar,2022,35.102078
+Namibia,2022,0.238581
+Nauru,2022,1.022815
+Nepal,2022,337.031174
+Nicaragua,2022,49.945337
+Niger,2022,175.664546
+Nigeria,2022,424.330483
+Niue,2022,NA
+North Macedonia,2022,16.36327
+"North of Sahara, regional",2022,2.631574
+"Oceania, regional",2022,8.574169
+Pakistan,2022,763.977768
+Palau,2022,15.247343
+Panama,2022,1.322467
+Papua New Guinea,2022,12.591309
+Paraguay,2022,31.156515
+Peru,2022,7.533893
+Philippines,2022,20.470098
+Rwanda,2022,73.250073
+Samoa,2022,NA
+Sao Tome and Principe,2022,2.130264
+Senegal,2022,179.879335
+Serbia,2022,42.124341
+Sierra Leone,2022,91.164963
+Solomon Islands,2022,4.941203
+Somalia,2022,7.490675
+"South & Central Asia, regional",2022,0.11443
+South Africa,2022,106.286722
+"South America, regional",2022,0.392434
+"South Asia, regional",2022,4.671912
+South Sudan,2022,1.682519
+"South of Sahara, regional",2022,140.975259
+"Southern Africa, regional",2022,3.100351
+Sri Lanka,2022,202.315398
+Sudan,2022,1.008708
+Suriname,2022,10.6985
+Syrian Arab Republic,2022,10.285194
+Tajikistan,2022,166.226943
+Tanzania,2022,169.063402
+Thailand,2022,1.963234
+Timor-Leste,2022,4.270635
+Togo,2022,9.979639
+Tonga,2022,8.747005
+Tunisia,2022,260.672166
+Turkmenistan,2022,462.439109
+Tuvalu,2022,1.627126
+Türkiye,2022,174.102307
+Uganda,2022,160.060781
+Ukraine,2022,799.725305
+Uzbekistan,2022,231.573943
+Vanuatu,2022,0.171552
+Venezuela,2022,0.117293
+Viet Nam,2022,93.010995
+West Bank and Gaza Strip,2022,322.852851
+"Western Africa, regional",2022,123.495407
+Yemen,2022,81.782617
+Zambia,2022,57.253652
+Zimbabwe,2022,7.655996
